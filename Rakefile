@@ -14,7 +14,7 @@ begin
     
     gem.add_dependency('oauth', '>= 0.3.5')
     gem.add_dependency('mash', '0.0.3')
-    gem.add_dependency('httparty', '0.4.3')
+    gem.add_dependency('httparty', '>= 0.4.3')
     
     gem.add_development_dependency('thoughtbot-shoulda', '>= 2.10.1')
     gem.add_development_dependency('jeremymcanally-matchy', '0.4.0')
